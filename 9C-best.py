@@ -1,5 +1,5 @@
 # counting binary number in decimal range
-# Developed by Nazim
+# Developed by Nazim...
 
 li=[]
 i=0;
